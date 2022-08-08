@@ -44,6 +44,7 @@ body {
 	padding: 3.2rem;
 	border-radius: 0.8rem;
 	box-shadow: 4rem 6rem 5rem -4.7rem rgba(72, 85, 106, 0.247378);
+	background-color: var(--color-white);
 }
 
 .testimonial__user {
